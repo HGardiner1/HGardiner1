@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Major at University of Maryland - College Park<br>🔭 I’m currently working on my ML & Python skills for my first Hackathon<br>👯 I’m looking to collaborate on beginner-level open-source projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>⚡ Fun Fact: I am an Eagle Scout!
+I'm a Computer Science Major at University of Maryland - College Park<br>🔭 I’m on the software team for UMDLoop, a competitive engineering team working on the University Rover Challenge 2025<br>👯 I’m looking to collaborate on beginner-level open-source projects<br>🌱 I’m currently learning Computer Systems<br>⚡ Fun Fact: I am an Eagle Scout!
 
 
 ## 🌐 Socials:
